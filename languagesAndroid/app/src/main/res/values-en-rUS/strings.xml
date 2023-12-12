@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">02_Languages_W3</string>
+    <string name="btn_show">Show</string>
+    <string name="btn_shop">Buy</string>
+    <string name="btn_print">Print</string>
+    <string name="msg_show">Showing Selection</string>
+    <string name="msg_shop">Buy Something</string>
+    <string name="msg_print">Printing Receip</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_Salir">Exit</string>
+</resources>

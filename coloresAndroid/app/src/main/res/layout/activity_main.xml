@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/col_05"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/lblDescrip"
+        android:text="@string/lblContexto"
+        android:textSize="@dimen/par_sz"
+        android:justificationMode="inter_word"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:paddingStart="@dimen/col_10"
+        android:paddingEnd="@dimen/col_10"
+
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <Button
+        android:id="@+id/btnElejir"
+        android:text="@string/btnSelcolor"
+        android:textSize="@dimen/par_sz"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/col_30"
+
+        app:layout_constraintTop_toBottomOf="@+id/lblDescrip"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+    <TextView
+        android:id="@+id/lblColor"
+        android:textSize="@dimen/par_sz"
+
+        android:visibility="gone"
+        tools:text="Este es su color favorito"
+
+        android:padding="@dimen/col_15"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/col_30"
+
+        app:layout_constraintTop_toBottomOf="@+id/btnElejir"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

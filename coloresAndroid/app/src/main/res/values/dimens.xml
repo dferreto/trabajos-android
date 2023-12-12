@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="col_05">5dp</dimen>
+    <dimen name="col_10">10dp</dimen>
+    <dimen name="col_15">15dp</dimen>
+    <dimen name="col_20">20dp</dimen>
+    <dimen name="col_25">25dp</dimen>
+    <dimen name="col_30">30dp</dimen>
+    <dimen name="col_35">35dp</dimen>
+    <dimen name="col_40">40dp</dimen>
+
+    <dimen name="head_1">24sp</dimen>
+    <dimen name="head_2">22sp</dimen>
+    <dimen name="head_3">20sp</dimen>
+
+    <dimen name="par_sz">15sp</dimen>
+    <dimen name="tex_sz">16sp</dimen>
+</resources>

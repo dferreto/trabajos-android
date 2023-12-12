@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Touch</string>
+    <string name="lbl_texto1">A un dedo</string>
+    <string name="lbl_texto2">A dos dedos</string>
+    <string name="lbl_texto3">A tres dedos</string>
+    <string name="lbl_texto4">A cuatro dedos</string>
+</resources>

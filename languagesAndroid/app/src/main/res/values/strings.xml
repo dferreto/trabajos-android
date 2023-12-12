@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">02_Languages_W3</string>
+    <string name="btn_show">Mostrar</string>
+    <string name="btn_shop">Comprar</string>
+    <string name="btn_print">Imprimir</string>
+    <string name="msg_show">Mostrando tu selección</string>
+    <string name="msg_shop">Comprando algo</string>
+    <string name="msg_print">Imprimiento la factura</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_Salir">Salir</string>
+</resources>

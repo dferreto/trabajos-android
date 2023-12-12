@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">13_ApiAccess</string>
+    <string name="titSignup">Crear Cuenta</string>
+    <string name="lbl_nomb">Nombre</string>
+    <string name="lbl_aplls">Apellidos</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_contra">Clave</string>
+    <string name="btn_OK">Aceptar</string>
+
+    <string name="titTareas">Lista de Tareas</string>
+</resources>

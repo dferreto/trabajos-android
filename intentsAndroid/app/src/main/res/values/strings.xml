@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">03_Intents_W3</string>
+    <string name="lblID">Cédula</string>
+    <string name="lblNom">Nombre</string>
+    <string name="lblSex">Sexo</string>
+    <string name="lblFecN">Nacido</string>
+    <string name="lblFeme">Femenino</string>
+    <string name="lblMasc">Masculino</string>
+    <string name="btnAcep">Aceptar</string>
+    <string name="lblNac">Nacido</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">12_SQLite</string>
+    <string name="tit_main_activity">Ejemplo de Listas</string>
+    <string name="valUnique">Contacto Individual</string>
+    <string name="lbl_simplex">Lista Sencilla</string>
+    <string name="lbl_complex">Lista Compleja</string>
+    <string name="correodestino">Correo de destino</string>
+    <string name="asunto">Asunto</string>
+    <string name="mensaje">Mensaje</string>
+
+    <string name="valdestino">Debe suministar un destinatario</string>
+    <string name="valasunto">Debe suministar un asunto</string>
+    <string name="valmensaje">Debe suministar un mensaje</string>
+
+    <string name="btnEnviar">Enviar mensaje</string>
+
+    <string name="txtNombre">Nombre: </string>
+    <string name="txtApellidos">Apellidos: </string>
+    <string name="txtCorreo">Correo Electronico: </string>
+    <string name="txtNumero">Número de Telefono: </string>
+
+    <string name="txtNewContact">Nuevo Contacto: </string>
+</resources>

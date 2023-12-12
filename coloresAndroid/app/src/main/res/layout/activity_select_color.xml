@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="@dimen/col_05"
+        android:layout_marginTop="@dimen/col_05"
+        tools:context=".selcolor">
+
+        <TextView
+            android:id="@+id/lblDescrip2"
+            android:text="@string/btnSelcolor"
+            android:textSize="@dimen/tex_sz"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+        <Button
+            android:id="@+id/btnRojo"
+            android:text="@string/lblrojo"
+            android:backgroundTint="@color/rojo"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/col_05"
+            android:layout_marginLeft="@dimen/col_40"
+            android:layout_marginRight="@dimen/col_40"/>
+
+        <Button
+            android:id="@+id/btnNaranja"
+            android:text="@string/lblnaranja"
+            android:backgroundTint="@color/naranja"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/col_05"
+            android:layout_marginLeft="@dimen/col_40"
+            android:layout_marginRight="@dimen/col_40"/>
+
+        <Button
+            android:id="@+id/btnAmarillo"
+            android:text="@string/lblamarillo"
+            android:backgroundTint="@color/amarillo"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/col_05"
+            android:layout_marginLeft="@dimen/col_40"
+            android:layout_marginRight="@dimen/col_40"/>
+
+        <Button
+            android:id="@+id/btnVerde"
+            android:text="@string/lblverde"
+            android:backgroundTint="@color/verde"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/col_05"
+            android:layout_marginLeft="@dimen/col_40"
+            android:layout_marginRight="@dimen/col_40"/>
+
+        <Button
+            android:id="@+id/btnAzul"
+            android:text="@string/lblazul"
+            android:backgroundTint="@color/azul"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/col_05"
+            android:layout_marginLeft="@dimen/col_40"
+            android:layout_marginRight="@dimen/col_40"/>
+
+        <Button
+            android:id="@+id/btnIndigo"
+            android:text="@string/lblindigo"
+            android:backgroundTint="@color/indigo"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/col_05"
+            android:layout_marginLeft="@dimen/col_40"
+            android:layout_marginRight="@dimen/col_40"/>
+
+        <Button
+            android:id="@+id/btnVioleta"
+            android:text="@string/lblvioleta"
+            android:backgroundTint="@color/violeta"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/col_05"
+            android:layout_marginLeft="@dimen/col_40"
+            android:layout_marginRight="@dimen/col_40"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">08_Navigation_01_W4</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Pizzara</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_about">Acerca de...</string>
+    <string name="message_home">Este es el fragment de Inicio</string>
+    <string name="message_dashboard">Este es el fragment de la Pizarra</string>
+    <string name="message_notifications">Este es el fragment de Notificaciones</string>
+    <string name="message_about">Este es el fragment de Acerca de...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

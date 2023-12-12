@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">06_Menus_W4</string>
+    <string name="gretting">Hola a todos</string>
+    <string name="action_settings">Configuración</string>
+    <string name="red">Rojo</string>
+    <string name="green">Verde</string>
+    <string name="yellow">Amarillo</string>
+    <string name="blue">Azul</string>
+    <string name="black">Negro</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">04_Colors_W3</string>
+    <string name="btnSelcolor">Elija su color favorito</string>
+    <string name="lblcolor">El %s es su color favorito</string>
+
+    <string name="lblrojo">Rojo</string>
+    <string name="lblnaranja">Naranja</string>
+    <string name="lblamarillo">Amarillo</string>
+    <string name="lblverde">Verde</string>
+    <string name="lblazul">Azul</string>
+    <string name="lblindigo">Indigo</string>
+    <string name="lblvioleta">Violeta</string>
+    <string name="lblsincolor">Sin definir</string>
+    <string name="lblContexto">
+			Esta es una demostración de llamado entre actividades y la recuperación de valores.
+			Por favor presione el botón para elegir su color favorito.
+		</string>
+</resources>

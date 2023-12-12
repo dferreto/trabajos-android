@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">08_Navigation_02_W4</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Pizzara</string>
+    <string name="title_notifications">Notificaciones</string>
+
+    <string name="title_about">Acerca de...</string>
+    <string name="message_home">Este es el fragment de Inicio</string>
+    <string name="message_dashboard">Este es el fragment de la Pizarra</string>
+    <string name="message_notifications">Este es el fragment de Notificaciones</string>
+    <string name="message_about">Este es el fragment de Acerca de...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

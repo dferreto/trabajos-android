@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242648422621",
+    "project_id": "northwind-66a43",
+    "storage_bucket": "northwind-66a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242648422621:android:47c68aec32621bd10d2334",
+        "android_client_info": {
+          "package_name": "com.example.a14_firebaseaccess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQar87nf_sZ_fMGvuRO3JHG_vLxpjHWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

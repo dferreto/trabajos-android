@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="title_activity_login">Validando usuario</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_login">Ingresar</string>
+
+    <string name="tit_Error">Error</string>
+    <string name="msg_Required">El correo electrónico y contraseña no pueden estar vacíos</string>
+    <string name="btn_Ok">Aceptar</string>
+</resources>
